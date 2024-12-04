@@ -2,7 +2,10 @@
 <script src="/uv/uv.bundle.js" defer></script>
 <script src="/uv/uv.config.js" defer></script>
 <script src="/js/register-sw.js" defer></script>
+<script src="/js/search.js" defer></script>
 <link href="/css/index.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/themes.css" />
+<script src="/js/themes.js"></script>
 <form class="searchform" id="searchform">
     <form class="searchform" id="searchform" method="get" action="https://www.google.com/search">
         <input class="search-bar" id="searchbar" placeholder="Search Google or Type a Address" type="text" size="31"
@@ -10,23 +13,23 @@
         <script>
             document.getElementById("searchform").addEventListener("submit", async function (event) {
                 event.preventDefault();
-                parent.tabs.load(document.querySelector('#searchbar').value);
+                const input = document.querySelector('#searchbar').value;
+                if (parent.tabs) parent.tabs.load(input);
+                else {
+                    registerSW();
+                    parent.setupBaremux();
+                    location.href = __uv$config.prefix + __uv$config.encodeUrl(search(input, (localStorage.getItem("searchEngine") || "https://google.com/search?q=%s")));
+                }
+                top.hideNav();
             });
         </script>
-        <div title="Ultraviolet Logo" class="logo-wrapper">
+        <div class="logo-wrapper">
             <h1 data-text="&nbsp;Acceleration" class="text">&nbsp;Acceleration</h1>
         </div>
         <style>
             @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap");
 
-            :root {
-                --primary-color: #fff;
-                --secondary-color: rgba(255, 255, 255, 0.7);
-                --primary-color: white;
-                --secondary-color: #c4c4c4;
-                --background-color: #0f0f0f;
-                --highlight-color: #ff0077;
-            }
+
 
             #title {
                 width: 100%;
@@ -65,9 +68,6 @@
             }
 
             body {
-                background: url("background.webp") no-repeat center center fixed;
-                background-size: cover;
-                background-image: url("backgrouond.webp");
                 font-family: "Inter", sans-serif;
                 height: 100vh;
                 display: flex;
@@ -188,7 +188,6 @@
             h2,
             h3 {
                 color: var(--primary-color);
-                text-shadow: 2px 4px 6px var(--highlight-color);
             }
 
             a {
@@ -205,7 +204,7 @@
             <source src="Cyber_Shards_Vip.mp4" type="audio/mp4">
         </audio>
         <script>
-            parent.updateCurrentTab("Acceleration Home");
+            try { parent.updateCurrentTab("Acceleration Home"); } catch (_) { };
         </script>
 
         </html>

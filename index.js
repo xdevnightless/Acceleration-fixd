@@ -7,6 +7,7 @@ import { libcurlPath } from "@mercuryworkshop/libcurl-transport";
 import { baremuxPath } from "@mercuryworkshop/bare-mux/node";
 import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
 import { join } from "path";
+import httpProxy from 'http-proxy';
 
 const port = 8080;
 const publicPath = fileURLToPath(new URL("./public/", import.meta.url));
@@ -18,7 +19,15 @@ app.use("/epoxy/", express.static(epoxyPath));
 app.use("/libcurl/", express.static(libcurlPath));
 app.use("/baremux/", express.static(baremuxPath));
 app.use("/uv/", express.static(uvPath));
+const proxy = httpProxy.createProxyServer();
 
+app.use('/books/files', (req, res) => {
+    const targetUrl = `https://phantom.lol/books/files/`;
+    proxy.web(req, res, { target: targetUrl, changeOrigin: true }, (err) => {
+        console.error('Proxy error:', err);
+        res.status(500).send('Error while proxying the request.');
+    });
+});
 
 app.use((req, res) => {
     res.status(404);

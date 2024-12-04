@@ -134,7 +134,7 @@ body {
   margin: 0;
 }
 
-.game-links {
+.app-links {
   display: flex;
   flex-wrap: wrap;
   justify-content: center; 
@@ -145,7 +145,7 @@ body {
   margin-top: 4vh;
 }
 
-.game-link {
+.app-link {
   width: calc(10% - 10px);
   margin: 5px;
   text-align: center;
@@ -155,17 +155,17 @@ body {
   transition: opacity 0.3s ease-in-out;
 }
 
-.game-link:hover {
+.app-link:hover {
   opacity: 0.6;
 }
 
-.game-link img {
+.app-link img {
   width: 100%;
   height: auto;
   border-radius: 50%;
 }
 
-.game-link p {
+.app-link p {
   font-size: 0.8rem;
   margin: 5px;
   white-space: nowrap;
@@ -174,13 +174,13 @@ body {
 }
 
 @media (max-width: 768px) {
-  .game-link {
+  .app-link {
     width: calc(20% - 10px);
   }
 }
 
 @media (max-width: 480px) {
-  .game-link {
+  .app-link {
     width: calc(25% - 10px);
   }
 }
@@ -378,7 +378,7 @@ body {
 
 .card p,
 .column p,
-.game-link p,
+.app-link p,
 .category-label p {
   white-space: nowrap;        
   overflow: hidden;           

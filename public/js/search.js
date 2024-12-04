@@ -19,22 +19,7 @@ function search(input, template) {
   }
 
   if (template) {
-    return `${template}${encodeURIComponent(input)}`;
+    return template.replace('%s', encodeURIComponent(input));
   }
   return "";
 }
-document.getElementById('searchForm').addEventListener('submit', function(event) {
-      event.preventDefault();
-      
-      const query = document.getElementById('searchApps').value.toLowerCase();
-      
-      searchGames(query);
-    });
-
-    function searchGames(query) {
-      if (query) {
-        console.log("Searching for games with:", query);
-      } else {
-        console.log("Please enter a search term.");
-      }
-    }
