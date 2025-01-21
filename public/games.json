@@ -53,7 +53,7 @@
         "root": "a-dance-of-fire-and-ice",
         "file": "index.html",
         "img": "splash.png",
-        "category": ["Rhythm"]
+        "category": ["Strategy"]
     },
     {
         "name": "A Dark Room",
@@ -447,7 +447,7 @@
         "root": "fridaynightfunkin",
         "file": "index.html",
         "img": "fnf-icon.jpg",
-        "category": ["Music"]
+        "category": ["Action"]
     },
     {
         "name": "Froggy's Battle",
@@ -623,11 +623,8 @@
         "file": "index.html",
         "img": "hoverbotarena.JPG",
         "category": ["Action"]
-    }
-]
-
-[
-  {
+    },
+    {
     "name": "Hungry Lamu",
     "root": "hungry-lamu",
     "file": "index.html",
@@ -639,14 +636,14 @@
     "root": "idle-breakout",
     "file": "index.html",
     "img": "img/thumbnail.png",
-    "category": ["Idle"]
+    "category": ["Action"]
   },
   {
     "name": "Idle Shark",
     "root": "idle-shark",
     "file": "index.html",
     "img": "img/sharkgame.png",
-    "category": ["Idle"]
+    "category": ["Action"]
   },
   {
     "name": "Impossible Quiz",
@@ -850,11 +847,8 @@
     "file": "index.html",
     "img": "splash.png",
     "category": ["Adventure"]
-  }
-]
-
-[
-  {
+    },
+    {
     "name": "Offline Paradise",
     "root": "OfflineParadise",
     "file": "index.html",
@@ -1266,10 +1260,7 @@
     "file": "index.html",
     "img": "img/favicon.png",
     "category": ["Multiplayer"]
-  }
-]
-[
-[
+    },
     {
         "name": "Station 141",
         "root": "station-141",
@@ -1457,7 +1448,7 @@
         "root": "temple-run-2",
         "file": "index.html",
         "img": "img/og-icon.png",
-        "categories": ["Endless runner", "Action"]
+        "categories": ["Action"]
     },
     {
         "name": "The Battle",
@@ -1541,7 +1532,7 @@
         "root": "tunnel-rush",
         "file": "index.html",
         "img": "img/tunnel.jpg",
-        "categories": ["Endless runner"]
+        "categories": ["Action"]
     },
     {
         "name": "Twitch Tetris",
@@ -1681,7 +1672,7 @@
         "root": "zombs-royale",
         "file": "index.html",
         "img": "zomb.png",
-        "categories": ["Multiplayer", "Battle royale"]
+        "categories": ["Multiplayer", "Action"]
     },
     {
         "name": "circlO",
