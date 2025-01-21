@@ -626,230 +626,233 @@
     }
 ]
 
+[
+  {
     "name": "Hungry Lamu",
     "root": "hungry-lamu",
     "file": "index.html",
     "img": "splash.png",
-    "category": "Adventure"
+    "category": ["Adventure"]
   },
   {
     "name": "Idle Breakout",
     "root": "idle-breakout",
     "file": "index.html",
     "img": "img/thumbnail.png",
-    "category": "Idle"
+    "category": ["Idle"]
   },
   {
     "name": "Idle Shark",
     "root": "idle-shark",
     "file": "index.html",
     "img": "img/sharkgame.png",
-    "category": "Idle"
+    "category": ["Idle"]
   },
   {
     "name": "Impossible Quiz",
     "root": "impossiblequiz",
     "file": "index.html",
     "img": "impossiblequiz.png",
-    "category": "Trivia"
+    "category": ["Trivia"]
   },
   {
     "name": "Interactive Buddy",
     "root": "interactivebuddy",
     "file": "index.html",
     "img": "interactivebuddy.jpg",
-    "category": "Simulation"
+    "category": ["Simulation"]
   },
   {
     "name": "Jetpack Joyride",
     "root": "jetpack-joyride",
     "file": "index.html",
     "img": "splash.jpg",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "Just One Boss",
     "root": "just-one-boss",
     "file": "index.html",
     "img": "pv1Gr5.png",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "JustFall.lol",
     "root": "just-fall",
     "file": "index.html",
     "img": "unnamed.png",
-    "category": "Multiplayer"
+    "category": ["Multiplayer"]
   },
   {
     "name": "Kitchen gun game",
     "root": "kitchen-gun-game",
     "file": "index.html",
     "img": "splash.png",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "Kitten Cannon",
     "root": "kittencannon",
     "file": "index.html",
     "img": "kittencannon.png",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "Knife Master",
     "root": "knife-master",
     "file": "index.html",
     "img": "512x512.jpg",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "Krunker",
     "root": "krunker",
     "file": "index.html",
     "img": "img/krunker-io.jpg",
-    "category": "FPS"
+    "category": ["Shooter"]
   },
   {
     "name": "Learn To Fly",
     "root": "learntofly",
     "file": "index.html",
     "img": "learntofly.png",
-    "category": "Adventure"
+    "category": ["Adventure"]
   },
   {
     "name": "Learn to fly 2",
     "root": "learntofly2",
     "file": "index.html",
     "img": "learn-to-fly-2.jpg",
-    "category": "Adventure"
+    "category": ["Adventure"]
   },
   {
     "name": "Madalin Stunt Cars 2",
     "root": "madalin-stunt-cars-2",
     "file": "index.html",
     "img": "img/logo.jpg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "Madalin Stunt Cars 3",
     "root": "madalin-stunt-cars-3",
     "file": "index.html",
     "img": "img/index.jpg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "Mario",
     "root": "mario",
     "file": "index.html",
     "img": "Theme/Mario.gif",
-    "category": "Platformer"
+    "category": ["Platformer"]
   },
   {
     "name": "Marvin Spectrum",
     "root": "marvinspectrum",
     "file": "index.html",
     "img": "marvinspectrum.png",
-    "category": "Puzzle"
+    "category": ["Puzzle"]
   },
   {
     "name": "Matrix Rampage",
     "root": "matrixrampage",
     "file": "index.html",
     "img": "matrixrampage.jpg",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "Meme 2048",
     "root": "meme2048",
     "file": "index.html",
     "img": "img/rickroll.gif",
-    "category": "Puzzle"
+    "category": ["Puzzle"]
   },
   {
     "name": "Merge Round Racers",
     "root": "merge-round-racers",
     "file": "index.html",
     "img": "splash.png",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "Mine Blocks",
     "root": "mineblocks",
     "file": "index.html",
     "img": "splash.png",
-    "category": "Adventure"
+    "category": ["Adventure"]
   },
   {
     "name": "Minecraft Classic",
     "root": "minecraft-classic",
     "file": "index.html",
     "img": "pack.png",
-    "category": "Sandbox"
+    "category": ["Sandbox"]
   },
   {
     "name": "Minecraft Classic Hacks",
     "root": "minecraftbeta",
     "file": "index.html",
     "img": "bg_main.png",
-    "category": "Sandbox"
+    "category": ["Sandbox"]
   },
   {
     "name": "Minesweeper",
     "root": "minesweeper",
     "file": "index.html",
     "img": "img/minesweeper.png",
-    "category": "Puzzle"
+    "category": ["Puzzle"]
   },
   {
     "name": "Mini-putt",
     "root": "miniputt",
     "file": "index.html",
     "img": "miniputt.png",
-    "category": "Sports"
+    "category": ["Sports"]
   },
   {
     "name": "Missiles",
     "root": "missiles",
     "file": "index.html",
     "img": "miss.png",
-    "category": "Action"
+    "category": ["Action"]
   },
   {
     "name": "MotoX3M",
     "root": "motox3m",
     "file": "index.html",
     "img": "splash.jpg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "MotoX3M Pool",
     "root": "motox3m-pool",
     "file": "index.html",
     "img": "splash.jpg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "MotoX3M Spooky",
     "root": "motox3m-spooky",
     "file": "index.html",
     "img": "splash.jpeg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "MotoX3M Winter",
     "root": "motox3m-winter",
     "file": "index.html",
     "img": "download.jpeg",
-    "category": "Racing"
+    "category": ["Racing"]
   },
   {
     "name": "My Rusty Submarine",
     "root": "my-rusty-submarine",
     "file": "index.html",
     "img": "splash.png",
-    "category": "Adventure"
+    "category": ["Adventure"]
   }
 ]
+
 [
   {
     "name": "Offline Paradise",
@@ -926,7 +929,7 @@
     "root": "pixel-gun-survival",
     "file": "index.html",
     "img": "512x512.png",
-    "category": ["FPS"]
+    "category": ["Shooter"]
   },
   {
     "name": "PolyBranch",
@@ -1115,7 +1118,7 @@
     "root": "shellshockers",
     "file": "index.html",
     "img": "img/favicon.jpg",
-    "category": ["Action"]
+    "category": ["Shooter", "Action"]
   },
   {
     "name": "Shot in the Dark",
