@@ -1,921 +1,631 @@
 [
     {
-      "name": "1",
-      "root": "1",
-      "file": "index.html",
-      "img": "meta/apple-touch-icon.png",
-      "category": "Classic"
-    },
-    {
-      "name": "10 Minutes till dawn",
-      "root": "10-minutes-till-dawn",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Survival"
-    },
-    {
-      "name": "100 Player Pong",
-      "root": "100ng",
-      "file": "index.html",
-      "img": "100ng.jpg",
-      "category": "Multiplayer"
-    },
-    {
-      "name": "1v1.space",
-      "root": "1v1space",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Multiplayer"
-    },
-    {
-      "name": "2048",
-      "root": "2048",
-      "file": "index.html",
-      "img": "thumb.png",
-      "category": "Puzzle"
-    },
-    {
-      "name": "2048 Multitask",
-      "root": "2048-multitask",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Puzzle"
-    },
-    {
-      "name": "9007199254740992",
-      "root": "9007199254740992",
-      "file": "index.html",
-      "img": "logo-4.png",
-      "category": "Puzzle"
-    },
-    {
-      "name": "A Dance of Fire & Ice",
-      "root": "a-dance-of-fire-and-ice",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Rhythm"
-    },
-    {
-      "name": "A Dark Room",
-      "root": "adarkroom",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Adventure"
-    },
-    {
-      "name": "Achvmt Unlocked",
-      "root": "achievementunlocked",
-      "file": "index.html",
-      "img": "achievementunlocked.png",
-      "category": "Puzzle"
-    },
-    {
-      "name": "Adrenaline Challenge",
-      "root": "adrenalinechallenge",
-      "file": "index.html",
-      "img": "adrenalinechallenge.jpg",
-      "category": "Action"
-    },
-    {
-      "name": "Adventure Drivers",
-      "root": "adventure-drivers",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Racing"
-    },
-    {
-      "name": "Age of Conflict",
-      "root": "ages-of-conflict",
-      "file": "index.html",
-      "img": "splash.jpg",
-      "category": "Strategy"
-    },
-    {
-      "name": "Alien Hominid",
-      "root": "alienhominid",
-      "file": "index.html",
-      "img": "alienhominid.jpg",
-      "category": "Action"
-    },
-    {
-      "name": "Amidst the Clouds",
-      "root": "amidst-the-clouds",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Adventure"
-    },
-    {
-      "name": "Among Us",
-      "root": "among-us",
-      "file": "index.html",
-      "img": "red.png",
-      "category": "Multiplayer"
-    },
-    {
-      "name": "Angry Sharks",
-      "root": "angry-sharks",
-      "file": "index.html",
-      "img": "assets/favicon/icon-512x512.png",
-      "category": "Action"
-    },
-    {
-      "name": "Aquapark slides",
-      "root": "aquapark-slides",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Racing"
-    },
-    {
-      "name": "Astray",
-      "root": "astray",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Adventure"
-    },
-    {
-      "name": "Avalanche",
-      "root": "avalanche",
-      "file": "index.html",
-      "img": "avalanche.png",
-      "category": "Action"
-    },
-    {
-      "name": "Awesome Tanks 2",
-      "root": "awesometanks2",
-      "file": "index.html",
-      "img": "awesometanks2.jpg",
-      "category": "Action"
-    },
-    {
-      "name": "Backrooms",
-      "root": "backrooms",
-      "file": "index.html",
-      "img": "img/splash.jpg",
-      "category": "Horror"
-    },
-    {
-      "name": "Bad Ice Cream",
-      "root": "bad-ice-cream",
-      "file": "index.html",
-      "img": "bad-ice-cream.png",
-      "category": "Action"
-    },
-    {
-      "name": "Bad Ice Cream 2",
-      "root": "bad-ice-cream-2",
-      "file": "index.html",
-      "img": "bad-ice-cream-2.png",
-      "category": "Action"
-    },
-    {
-      "name": "Bad Ice Cream 3",
-      "root": "bad-ice-cream-3",
-      "file": "index.html",
-      "img": "bad-ice-cream-3.png",
-      "category": "Action"
-    },
-    {
-      "name": "Baldi's Basics",
-      "root": "baldis-basics",
-      "file": "index.html",
-      "img": "splash.png",
-      "category": "Horror"
-    },
-    {
-      "name": "Ballistic Chickens",
-      "root": "ballistic-chickens",
-      "file": "index.html",
-      "img": "logo.png",
-      "category": "Action"
-    },
-    {
-      "name": "Basket Random",
-      "root": "basket-random",
-      "file": "index.html",
-      "img": "splash.jpeg",
-      "category": "Sports"
-    },
-    {
-      "name": "Basketball Stars",
-      "root": "basketball-stars",
-      "file": "index.html",
-      "img": "assets/images/basketball-stars.png",
-      "category": "Sports"
-    },
-    {
-      "name": "Basketbros.io",
-      "root": "basketbros-io",
-      "file": "index.html",
-      "img": "thumb.jpg",
-      "category": "Multiplayer"
-    }
-]
-[
-    {
-        "name": "battle for gondor",
-        "root": "battleforgondor",
+        "name": "1",
+        "root": "1",
         "file": "index.html",
-        "img": "battleforgondor.JPG",
-        "category": "strategy"
+        "img": "meta/apple-touch-icon.png",
+        "category": ["Classic"]
     },
     {
-        "name": "big neon tt square",
-        "root": "bntts",
-        "file": "index.html",
-        "img": "icons/icon-256.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "big red button",
-        "root": "bigredbutton",
-        "file": "index.html",
-        "img": "bigredbutton.png",
-        "category": "action"
-    },
-    {
-        "name": "big tower tiny square",
-        "root": "btts",
-        "file": "index.html",
-        "img": "images.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "bitlife",
-        "root": "bitlife",
-        "file": "index.html",
-        "img": "logo.png",
-        "category": "simulation"
-    },
-    {
-        "name": "black hole square",
-        "root": "blacholesquare",
-        "file": "index.html",
-        "img": "icon.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "black knight",
-        "root": "blackknight",
-        "file": "index.html",
-        "img": "blackknight.png",
-        "category": "action"
-    },
-    {
-        "name": "bloons td",
-        "root": "bloonstd",
-        "file": "index.html",
-        "img": "bloonstd.jpg",
-        "category": "strategy"
-    },
-    {
-        "name": "bloons td 2",
-        "root": "bloonstd2",
-        "file": "index.html",
-        "img": "bloonstd2.png",
-        "category": "strategy"
-    },
-    {
-        "name": "bloxors",
-        "root": "bloxors",
-        "file": "index.html",
-        "img": "block.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "bob the robber 2",
-        "root": "bobtherobber2",
-        "file": "index.html",
-        "img": "splash.jpeg",
-        "category": "adventure"
-    },
-    {
-        "name": "box head",
-        "root": "boxhead2play",
-        "file": "index.html",
-        "img": "boxhead2play.jpg",
-        "category": "shooter"
-    },
-    {
-        "name": "boxing random",
-        "root": "boxing-random",
-        "file": "index.html",
-        "img": "512x512.jpg",
-        "category": "sports"
-    },
-    {
-        "name": "breaking the bank",
-        "root": "breakingthebank",
-        "file": "index.html",
-        "img": "breakingthebank.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "burger and frights",
-        "root": "burger-and-frights",
+        "name": "10 Minutes till dawn",
+        "root": "10-minutes-till-dawn",
         "file": "index.html",
         "img": "splash.png",
-        "category": "adventure"
+        "category": ["Survival"]
     },
     {
-        "name": "cs:go clicker",
-        "root": "csgo-clicker",
+        "name": "100 Player Pong",
+        "root": "100ng",
         "file": "index.html",
-        "img": "images/vanguard.png",
-        "category": "clicker"
+        "img": "100ng.jpg",
+        "category": ["Multiplayer"]
     },
     {
-        "name": "cannon basketball 4",
-        "root": "cannon-basketball-4",
-        "file": "index.html",
-        "img": "img/splash.png",
-        "category": "sports"
-    },
-    {
-        "name": "canyon defense",
-        "root": "canyondefense",
-        "file": "index.html",
-        "img": "canyondefense.png",
-        "category": "strategy"
-    },
-    {
-        "name": "cars simulator",
-        "root": "cars-simulator",
+        "name": "1v1.space",
+        "root": "1v1space",
         "file": "index.html",
         "img": "splash.png",
-        "category": "simulation"
+        "category": ["Multiplayer"]
     },
     {
-        "name": "cell machine",
-        "root": "cell-machine",
+        "name": "2048",
+        "root": "2048",
         "file": "index.html",
-        "img": "img/te9nDu.png",
-        "category": "puzzle"
+        "img": "thumb.png",
+        "category": ["Puzzle"]
     },
     {
-        "name": "champion archer",
-        "root": "championarcher",
-        "file": "index.html",
-        "img": "championarcher.png",
-        "category": "action"
-    },
-    {
-        "name": "champion island",
-        "root": "champion-island",
+        "name": "2048 Multitask",
+        "root": "2048-multitask",
         "file": "index.html",
         "img": "splash.png",
-        "category": "adventure"
+        "category": ["Puzzle"]
     },
     {
-        "name": "chill radio",
-        "root": "chill-radio",
+        "name": "9007199254740992",
+        "root": "9007199254740992",
         "file": "index.html",
-        "img": "img/icon.png",
-        "category": "music"
+        "img": "logo-4.png",
+        "category": ["Puzzle"]
     },
     {
-        "name": "chrome dino",
-        "root": "chrome-dino",
-        "file": "index.html",
-        "img": "icons/icon-256.png",
-        "category": "action"
-    },
-    {
-        "name": "cluster rush",
-        "root": "cluster-rush",
+        "name": "A Dance of Fire & Ice",
+        "root": "a-dance-of-fire-and-ice",
         "file": "index.html",
         "img": "splash.png",
-        "category": "action"
+        "category": ["Rhythm"]
     },
     {
-        "name": "connect 3",
-        "root": "connect3",
+        "name": "A Dark Room",
+        "root": "adarkroom",
         "file": "index.html",
-        "img": "connect3.png",
-        "category": "puzzle"
+        "img": "splash.png",
+        "category": ["Adventure"]
     },
     {
-        "name": "cookie clicker",
-        "root": "cookie-clicker",
+        "name": "Achvmt Unlocked",
+        "root": "achievementunlocked",
         "file": "index.html",
-        "img": "cookie1.jpeg",
-        "category": "clicker"
+        "img": "achievementunlocked.png",
+        "category": ["Puzzle"]
     },
     {
-        "name": "core ball",
-        "root": "core-ball",
+        "name": "Adrenaline Challenge",
+        "root": "adrenalinechallenge",
         "file": "index.html",
-        "img": "pr_source.png",
-        "category": "puzzle"
+        "img": "adrenalinechallenge.jpg",
+        "category": ["Action"]
     },
     {
-        "name": "craftmine",
-        "root": "craftmine",
+        "name": "Adventure Drivers",
+        "root": "adventure-drivers",
         "file": "index.html",
-        "img": "images/craftmine.png",
-        "category": "simulation"
+        "img": "splash.png",
+        "category": ["Racing"]
     },
     {
-        "name": "creative kill chamber",
+        "name": "Age of Conflict",
+        "root": "ages-of-conflict",
+        "file": "index.html",
+        "img": "splash.jpg",
+        "category": ["Strategy"]
+    },
+    {
+        "name": "Alien Hominid",
+        "root": "alienhominid",
+        "file": "index.html",
+        "img": "alienhominid.jpg",
+        "category": ["Action"]
+    },
+    {
+        "name": "Amidst the Clouds",
+        "root": "amidst-the-clouds",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Among Us",
+        "root": "among-us",
+        "file": "index.html",
+        "img": "red.png",
+        "category": ["Multiplayer"]
+    },
+    {
+        "name": "Angry Sharks",
+        "root": "angry-sharks",
+        "file": "index.html",
+        "img": "assets/favicon/icon-512x512.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Aquapark slides",
+        "root": "aquapark-slides",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Racing"]
+    },
+    {
+        "name": "Creative kill chamber",
         "root": "creativekillchamber",
         "file": "index.html",
         "img": "creativekillchamber.jpg",
-        "category": "action"
+        "category": ["Action"]
     },
     {
-        "name": "crossy road",
+        "name": "Crossy road",
         "root": "crossyroad",
         "file": "index.html",
         "img": "crossyroad.png",
-        "category": "platformer"
+        "category": ["Platformer"]
+    },
+    {
+        "name": "Cubefield",
+        "root": "cubefield",
+        "file": "index.html",
+        "img": "assets/unnamed.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Cupcake 2048",
+        "root": "cupcake2048",
+        "file": "index.html",
+        "img": "favicon.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Cut the rope",
+        "root": "ctr",
+        "file": "index.html",
+        "img": "logo.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Ctr holiday",
+        "root": "ctr-holiday",
+        "file": "index.html",
+        "img": "Holiday_Gift.webp",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Ctr time travel",
+        "root": "ctr-tr",
+        "file": "index.html",
+        "img": "logo.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Dante",
+        "root": "dante",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Deal or no deal",
+        "root": "deal-or-no-deal",
+        "file": "index.html",
+        "img": "index.jpg",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Death run 3d",
+        "root": "death-run-3d",
+        "file": "index.html",
+        "img": "img/death.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Defend the tank",
+        "root": "defend-the-tank",
+        "file": "index.html",
+        "img": "images/splash.jpg",
+        "category": ["Strategy"]
+    },
+    {
+        "name": "Doctor acorn 2",
+        "root": "doctor-acorn2",
+        "file": "index.html",
+        "img": "splash.jpg",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Doge 2048",
+        "root": "doge2048",
+        "file": "index.html",
+        "img": "meta/apple-touch-icon.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "DogeMiner",
+        "root": "dogeminer",
+        "file": "index.html",
+        "img": "img/dogeminer_300x300.png",
+        "category": ["Clicker"]
+    },
+    {
+        "name": "Doodle jump",
+        "root": "doodle-jump",
+        "file": "index.html",
+        "img": "doodle.png",
+        "category": ["Platformer"]
+    },
+    {
+        "name": "Double wires",
+        "root": "doublewires",
+        "file": "index.html",
+        "img": "doublewires.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Dragons vs bricks",
+        "root": "dragon-vs-bricks",
+        "file": "index.html",
+        "img": "icon.jpg",
+        "category": ["Action"]
+    },
+    {
+        "name": "Draw the hill",
+        "root": "draw-the-hill",
+        "file": "index.html",
+        "img": "icons/icon-512.png",
+        "category": ["Platformer"]
+    },
+    {
+        "name": "Drift hunters",
+        "root": "drift-hunters",
+        "file": "index.html",
+        "img": "drift-hunters.png",
+        "category": ["Sports"]
+    },
+    {
+        "name": "Drive mad",
+        "root": "drive-mad",
+        "file": "index.html",
+        "img": "logo.jpg",
+        "category": ["Sports"]
+    },
+    {
+        "name": "Duck life",
+        "root": "ducklife1",
+        "file": "index.html",
+        "img": "ducklife.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Duck life 2",
+        "root": "ducklife2",
+        "file": "index.html",
+        "img": "ducklife2.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Duck life 3",
+        "root": "ducklife3",
+        "file": "index.html",
+        "img": "duck.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Duck life 4",
+        "root": "ducklife4",
+        "file": "index.html",
+        "img": "splash.jpg",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Eaglercraft 1.5",
+        "root": "minecraft-15",
+        "file": "index.html",
+        "img": "splash.jpeg",
+        "category": ["Simulation"]
+    },
+    {
+        "name": "Eaglercraft 1.8",
+        "root": "minecraft-18",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Simulation"]
+    },
+    {
+        "name": "Edge let's surf",
+        "root": "edge-surf",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Sports"]
+    },
+    {
+        "name": "Edge not found",
+        "root": "edgenotfound",
+        "file": "index.html",
+        "img": "edge.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Eel slap",
+        "root": "eel-slap",
+        "file": "index.html",
+        "img": "eel-slap.png",
+        "category": ["Action"]
     }
 ]
 [
     {
-        "name": "cubefield",
-        "root": "cubefield",
-        "file": "index.html",
-        "img": "assets/unnamed.png",
-        "category": "action"
-    },
-    {
-        "name": "cupcake 2048",
-        "root": "cupcake2048",
-        "file": "index.html",
-        "img": "favicon.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "cut the rope",
-        "root": "ctr",
-        "file": "index.html",
-        "img": "logo.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "ctr holiday",
-        "root": "ctr-holiday",
-        "file": "index.html",
-        "img": "Holiday_Gift.webp",
-        "category": "puzzle"
-    },
-    {
-        "name": "ctr time travel",
-        "root": "ctr-tr",
-        "file": "index.html",
-        "img": "logo.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "dante",
-        "root": "dante",
-        "file": "index.html",
-        "img": "splash.png",
-        "category": "adventure"
-    },
-    {
-        "name": "deal or no deal",
-        "root": "deal-or-no-deal",
-        "file": "index.html",
-        "img": "index.jpg",
-        "category": "puzzle"
-    },
-    {
-        "name": "death run 3d",
-        "root": "death-run-3d",
-        "file": "index.html",
-        "img": "img/death.png",
-        "category": "action"
-    },
-    {
-        "name": "defend the tank",
-        "root": "defend-the-tank",
-        "file": "index.html",
-        "img": "images/splash.jpg",
-        "category": "strategy"
-    },
-    {
-        "name": "doctor acorn 2",
-        "root": "doctor-acorn2",
-        "file": "index.html",
-        "img": "splash.jpg",
-        "category": "adventure"
-    },
-    {
-        "name": "doge 2048",
-        "root": "doge2048",
-        "file": "index.html",
-        "img": "meta/apple-touch-icon.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "dogeminer",
-        "root": "DogeMiner",
-        "file": "index.html",
-        "img": "img/dogeminer_300x300.png",
-        "category": "clicker"
-    },
-    {
-        "name": "doodle jump",
-        "root": "doodle-jump",
-        "file": "index.html",
-        "img": "doodle.png",
-        "category": "platformer"
-    },
-    {
-        "name": "double wires",
-        "root": "doublewires",
-        "file": "index.html",
-        "img": "doublewires.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "dragons vs bricks",
-        "root": "dragon-vs-bricks",
-        "file": "index.html",
-        "img": "icon.jpg",
-        "category": "action"
-    },
-    {
-        "name": "draw the hill",
-        "root": "draw-the-hill",
-        "file": "index.html",
-        "img": "icons/icon-512.png",
-        "category": "platformer"
-    },
-    {
-        "name": "drift hunters",
-        "root": "drift-hunters",
-        "file": "index.html",
-        "img": "drift-hunters.png",
-        "category": "sports"
-    },
-    {
-        "name": "drive mad",
-        "root": "drive-mad",
-        "file": "index.html",
-        "img": "logo.jpg",
-        "category": "sports"
-    },
-    {
-        "name": "duck life",
-        "root": "ducklife1",
-        "file": "index.html",
-        "img": "ducklife.png",
-        "category": "adventure"
-    },
-    {
-        "name": "duck life 2",
-        "root": "ducklife2",
-        "file": "index.html",
-        "img": "ducklife2.png",
-        "category": "adventure"
-    },
-    {
-        "name": "duck life 3",
-        "root": "ducklife3",
-        "file": "index.html",
-        "img": "duck.png",
-        "category": "adventure"
-    },
-    {
-        "name": "duck life 4",
-        "root": "ducklife4",
-        "file": "index.html",
-        "img": "splash.jpg",
-        "category": "adventure"
-    },
-    {
-        "name": "eaglercraft 1.5",
-        "root": "minecraft-15",
-        "file": "index.html",
-        "img": "splash.jpeg",
-        "category": "simulation"
-    },
-    {
-        "name": "eaglercraft 1.8",
-        "root": "minecraft-18",
-        "file": "index.html",
-        "img": "splash.png",
-        "category": "simulation"
-    },
-    {
-        "name": "edge let's surf",
-        "root": "edge-surf",
-        "file": "index.html",
-        "img": "splash.png",
-        "category": "sports"
-    },
-    {
-        "name": "edge not found",
-        "root": "edgenotfound",
-        "file": "index.html",
-        "img": "edge.png",
-        "category": "puzzle"
-    },
-    {
-        "name": "eel slap",
-        "root": "eel-slap",
-        "file": "index.html",
-        "img": "eel-slap.png",
-        "category": "action"
-    },
-    {
-        "name": "elastic man",
+        "name": "Elastic man",
         "root": "elasticman",
         "file": "index.html",
         "img": "elasticman.jpg",
-        "category": "action"
+        "category": ["Action"]
     },
     {
-        "name": "endless war 3",
+        "name": "Endless war 3",
         "root": "endlesswar3",
         "file": "index.html",
         "img": "endlesswar3.png",
-        "category": "action"
+        "category": ["Action"]
     },
     {
-        "name": "escaping the prison",
+        "name": "Escaping the prison",
         "root": "escapingtheprison",
         "file": "index.html",
         "img": "escapingtheprison.jpg",
-        "category": "adventure"
+        "category": ["Adventure"]
     },
     {
-        "name": "evil glitch",
+        "name": "Evil glitch",
         "root": "evil-glitch",
         "file": "index.html",
         "img": "evil.png",
-        "category": "action"
+        "category": ["Action"]
     },
     {
-        "name": "evolution",
+        "name": "Evolution",
         "root": "evolution",
         "file": "index.html",
         "img": "splash.png",
-        "category": "simulation"
+        "category": ["Simulation"]
     },
     {
-        "name": "exo",
+        "name": "Exo",
         "root": "exo",
         "file": "index.html",
         "img": "img/small.jpg",
-        "category": "puzzle"
+        "category": ["Puzzle"]
     },
     {
-        "name": "factory balls forever",
+        "name": "Factory balls forever",
         "root": "factoryballs",
         "file": "index.html",
         "img": "images/splash.png",
-        "category": "puzzle"
+        "category": ["Puzzle"]
     },
     {
-        "name": "fair squares",
+        "name": "Fair squares",
         "root": "fairsquares",
         "file": "index.html",
         "img": "index.apple-touch-icon.png",
-        "category": "puzzle"
+        "category": ["Puzzle"]
     },
     {
-        "name": "fake virus",
+        "name": "Fake virus",
         "root": "fake-virus",
         "file": "index.html",
         "img": "icon.png",
-        "category": "action"
+        "category": ["Action"]
     },
     {
-        "name": "fancy pants advent.",
+        "name": "Fancy pants advent.",
         "root": "fancypantsadventures",
         "file": "index.html",
         "img": "fancypantsadventure.png",
-        "category": "platformer"
+        "category": ["Platformer"]
     },
     {
-        "name": "fireboy and watergirl",
+        "name": "Fireboy and watergirl",
         "root": "fireboywatergirlforesttemple",
         "file": "index.html",
         "img": "logo.jpeg",
-        "category": "platformer"
+        "category": ["Platformer"]
     },
     {
         "name": "5 nights at winston's",
         "root": "fnaw",
         "file": "index.html",
         "img": "splash.png",
-        "category": "adventure"
+        "category": ["Adventure"]
     },
     {
-        "name": "flappy 2048",
+        "name": "Flappy 2048",
         "root": "flappy-2048",
         "file": "index.html",
         "img": "meta/apple-touch-icon.png",
-        "category": "puzzle"
+        "category": ["Puzzle"]
     },
     {
-        "name": "flappy bird",
+        "name": "Flappy bird",
         "root": "flappy-bird",
         "file": "index.html",
         "img": "assets/thumb.png",
-        "category": "platformer"
+        "category": ["Platformer"]
     },
     {
-        "name": "flash tetris",
+        "name": "Flash tetris",
         "root": "flashtetris",
         "file": "index.html",
         "img": "flashtetris.png",
-        "category": "puzzle"
+        "category": ["Puzzle"]
     },
     {
-        "name": "flippy fish",
+        "name": "Flippy fish",
         "root": "flippy-fish",
         "file": "index.html",
         "img": "2022_10_28_0jt_Kleki.png",
-        "category": "platformer"
+        "category": ["Platformer"]
     },
     {
-        "name": "friday night funkin'",
+        "name": "Friday night funkin'",
         "root": "fridaynightfunkin",
         "file": "index.html",
         "img": "fnf-icon.jpg",
-        "category": "music"
+        "category": ["Music"]
+    },
+    {
+        "name": "Froggy's Battle",
+        "root": "froggys-battle",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Fruit Ninja",
+        "root": "fruitninja",
+        "file": "index.html",
+        "img": "FruitNinjaTeaser.jpg",
+        "category": ["Arcade"]
+    },
+    {
+        "name": "Frying Nemo",
+        "root": "frying-nemo",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "GOODNIGHT",
+        "root": "goodnight",
+        "file": "index.html",
+        "img": "goodnight.jpg",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Game Inside a Game...",
+        "root": "game-inside",
+        "file": "index.html",
+        "img": "img/display.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Generic Fishing Game",
+        "root": "generic-fishing-game",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Simulation"]
+    },
+    {
+        "name": "Geometry Dash (Scratch)",
+        "root": "geodash",
+        "file": "index.html",
+        "img": "geoscratchicon.png",
+        "category": ["Rhythm"]
+    },
+    {
+        "name": "George and the Printer",
+        "root": "georgeandtheprinter",
+        "file": "index.html",
+        "img": "img/SnDTEn.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Getaway Shootout",
+        "root": "getaway-shootout",
+        "file": "index.html",
+        "img": "img/images.jpg",
+        "category": ["Action"]
+    },
+    {
+        "name": "Gimme the Airpod",
+        "root": "gimme-the-airpod",
+        "file": "index.html",
+        "img": "img/logo.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Glass City",
+        "root": "glass-city",
+        "file": "index.html",
+        "img": "image.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Go Ball",
+        "root": "go-ball",
+        "file": "index.html",
+        "img": "game.jpg",
+        "category": ["Sports"]
+    },
+    {
+        "name": "Google Feud",
+        "root": "google-feud",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Trivia"]
+    },
+    {
+        "name": "Google Snake",
+        "root": "google-snake",
+        "file": "index.html",
+        "img": "img/snake.png",
+        "category": ["Arcade"]
+    },
+    {
+        "name": "Gravity Soccer",
+        "root": "gravity-soccer",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Sports"]
+    },
+    {
+        "name": "Grey Box Testing",
+        "root": "greybox",
+        "file": "index.html",
+        "img": "ico.png",
+        "category": ["Simulation"]
+    },
+    {
+        "name": "Grind Craft",
+        "root": "grindcraft",
+        "file": "index.html",
+        "img": "img/splash.png",
+        "category": ["Adventure"]
+    },
+    {
+        "name": "Hacker Typer",
+        "root": "hackertype",
+        "file": "index.html",
+        "img": "logo192.png",
+        "category": ["Simulation"]
+    },
+    {
+        "name": "Handshakes",
+        "root": "handshakes",
+        "file": "index.html",
+        "img": "splaher.png",
+        "category": ["Action"]
+    },
+    {
+        "name": "Happy Hop",
+        "root": "happy-hop",
+        "file": "index.html",
+        "img": "splash.png",
+        "category": ["Arcade"]
+    },
+    {
+        "name": "Helicopter",
+        "root": "helicopter",
+        "file": "index.html",
+        "img": "helicopter.png",
+        "category": ["Arcade"]
+    },
+    {
+        "name": "Hex Empire",
+        "root": "hexempire",
+        "file": "index.html",
+        "img": "hexempire.jpg",
+        "category": ["Strategy"]
+    },
+    {
+        "name": "HexGL",
+        "root": "HexGL",
+        "file": "index.html",
+        "img": "Hexgl-image-1.jpg",
+        "category": ["Racing"]
+    },
+    {
+        "name": "Hextris",
+        "root": "hextris",
+        "file": "index.html",
+        "img": "images/hextris-logo.png",
+        "category": ["Puzzle"]
+    },
+    {
+        "name": "Hover Bot Arena",
+        "root": "hba",
+        "file": "index.html",
+        "img": "hoverbotarena.JPG",
+        "category": ["Action"]
     }
 ]
-[
-  {
-    "name": "Froggy's Battle",
-    "root": "froggys-battle",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Action"
-  },
-  {
-    "name": "Fruit Ninja",
-    "root": "fruitninja",
-    "file": "index.html",
-    "img": "FruitNinjaTeaser.jpg",
-    "category": "Arcade"
-  },
-  {
-    "name": "Frying Nemo",
-    "root": "frying-nemo",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Adventure"
-  },
-  {
-    "name": "GOODNIGHT",
-    "root": "goodnight",
-    "file": "index.html",
-    "img": "goodnight.jpg",
-    "category": "Puzzle"
-  },
-  {
-    "name": "Game Inside a Game...",
-    "root": "game-inside",
-    "file": "index.html",
-    "img": "img/display.png",
-    "category": "Puzzle"
-  },
-  {
-    "name": "Generic Fishing Game",
-    "root": "generic-fishing-game",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Simulation"
-  },
-  {
-    "name": "Geometry Dash (Scratch)",
-    "root": "geodash",
-    "file": "index.html",
-    "img": "geoscratchicon.png",
-    "category": "Rhythm"
-  },
-  {
-    "name": "George and the Printer",
-    "root": "georgeandtheprinter",
-    "file": "index.html",
-    "img": "img/SnDTEn.png",
-    "category": "Puzzle"
-  },
-  {
-    "name": "Getaway Shootout",
-    "root": "getaway-shootout",
-    "file": "index.html",
-    "img": "img/images.jpg",
-    "category": "Action"
-  },
-  {
-    "name": "Gimme the Airpod",
-    "root": "gimme-the-airpod",
-    "file": "index.html",
-    "img": "img/logo.png",
-    "category": "Action"
-  },
-  {
-    "name": "Glass City",
-    "root": "glass-city",
-    "file": "index.html",
-    "img": "image.png",
-    "category": "Adventure"
-  },
-  {
-    "name": "Go Ball",
-    "root": "go-ball",
-    "file": "index.html",
-    "img": "game.jpg",
-    "category": "Sports"
-  },
-  {
-    "name": "Google Feud",
-    "root": "google-feud",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Trivia"
-  },
-  {
-    "name": "Google Snake",
-    "root": "google-snake",
-    "file": "index.html",
-    "img": "img/snake.png",
-    "category": "Arcade"
-  },
-  {
-    "name": "Gravity Soccer",
-    "root": "gravity-soccer",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Sports"
-  },
-  {
-    "name": "Grey Box Testing",
-    "root": "greybox",
-    "file": "index.html",
-    "img": "ico.png",
-    "category": "Simulation"
-  },
-  {
-    "name": "Grind Craft",
-    "root": "grindcraft",
-    "file": "index.html",
-    "img": "img/splash.png",
-    "category": "Adventure"
-  },
-  {
-    "name": "Hacker Typer",
-    "root": "hackertype",
-    "file": "index.html",
-    "img": "logo192.png",
-    "category": "Simulation"
-  },
-  {
-    "name": "Handshakes",
-    "root": "handshakes",
-    "file": "index.html",
-    "img": "splaher.png",
-    "category": "Action"
-  },
-  {
-    "name": "Happy Hop",
-    "root": "happy-hop",
-    "file": "index.html",
-    "img": "splash.png",
-    "category": "Arcade"
-  },
-  {
-    "name": "Helicopter",
-    "root": "helicopter",
-    "file": "index.html",
-    "img": "helicopter.png",
-    "category": "Arcade"
-  },
-  {
-    "name": "Hex Empire",
-    "root": "hexempire",
-    "file": "index.html",
-    "img": "hexempire.jpg",
-    "category": "Strategy"
-  },
-  {
-    "name": "HexGL",
-    "root": "HexGL",
-    "file": "index.html",
-    "img": "Hexgl-image-1.jpg",
-    "category": "Racing"
-  },
-  {
-    "name": "Hextris",
-    "root": "hextris",
-    "file": "index.html",
-    "img": "images/hextris-logo.png",
-    "category": "Puzzle"
-  },
-  {
-    "name": "Hover Bot Arena",
-    "root": "hba",
-    "file": "index.html",
-    "img": "hoverbotarena.JPG",
-    "category": "Action"
-  },
-  {
+
     "name": "Hungry Lamu",
     "root": "hungry-lamu",
     "file": "index.html",
@@ -1405,7 +1115,7 @@
     "root": "shellshockers",
     "file": "index.html",
     "img": "img/favicon.jpg",
-    "category": ["FPS"]
+    "category": ["Action"]
   },
   {
     "name": "Shot in the Dark",
@@ -1556,441 +1266,441 @@
   }
 ]
 [
+[
     {
         "name": "Station 141",
         "root": "station-141",
         "file": "index.html",
         "img": "75wxYs.png",
-        "categories": ["adventure", "action"]
+        "categories": ["Adventure", "Action"]
     },
     {
         "name": "Stealing The Diamond",
         "root": "stealingthediamond",
         "file": "index.html",
         "img": "stealingthediamond.jpg",
-        "categories": ["adventure", "action"]
+        "categories": ["Adventure", "Action"]
     },
     {
         "name": "Stick Archers",
         "root": "stick-archers",
         "file": "index.html",
         "img": "splash.jpg",
-        "categories": ["multiplayer", "action"]
+        "categories": ["Multiplayer", "Action"]
     },
     {
         "name": "Stick Duel Battle",
         "root": "stick-duel-battle",
         "file": "index.html",
         "img": "512x512.jpg",
-        "categories": ["multiplayer", "action"]
+        "categories": ["Multiplayer", "Action"]
     },
     {
         "name": "Stick Merge",
         "root": "stick-merge",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["action"]
+        "categories": ["Action"]
     },
     {
         "name": "Stick War",
         "root": "stickwar",
         "file": "index.html",
         "img": "stickwar.jpg",
-        "categories": ["strategy", "action"]
+        "categories": ["Strategy", "Action"]
     },
     {
         "name": "Stickman Boost",
         "root": "stickman-boost",
         "file": "index.html",
         "img": "base/img1.jpg",
-        "categories": ["action"]
+        "categories": ["Action"]
     },
     {
         "name": "Stickman Golf",
         "root": "stickman-golf",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["sports", "action"]
+        "categories": ["Sports", "Action"]
     },
     {
         "name": "Stickman Hook",
         "root": "stickman-hook",
         "file": "index.html",
         "img": "unnamed.jpg",
-        "categories": ["action"]
+        "categories": ["Action"]
     },
     {
         "name": "Stickman Survival",
         "root": "Stickman-Survival",
         "file": "index.html",
         "img": "Icon.png",
-        "categories": ["action", "survival"]
+        "categories": ["Action", "Survival"]
     },
     {
         "name": "Storm The House 2",
         "root": "stormthehouse2",
         "file": "index.html",
         "img": "stormthehouse2.jpg",
-        "categories": ["action", "shooter"]
+        "categories": ["Action", "Shooter"]
     },
     {
         "name": "Subway Surfers",
         "root": "subway-surfers",
         "file": "index.html",
         "img": "img/splash.jpg",
-        "categories": ["arcade", "endless runner"]
+        "categories": ["Arcade", "Endless runner"]
     },
     {
         "name": "Subway Surfers New York",
         "root": "subway-surfers-ny",
         "file": "index.html",
         "img": "NewYorkIcon.png",
-        "categories": ["arcade", "endless runner"]
+        "categories": ["Arcade", "Endless runner"]
     },
     {
         "name": "Super Mario 64",
         "root": "sm64",
         "file": "index.html",
         "img": "logo.png",
-        "categories": ["platformer", "adventure"]
+        "categories": ["Platformer", "Adventure"]
     },
     {
         "name": "Super Mario Construct",
         "root": "supermarioconstruct",
         "file": "index.html",
         "img": "media/icons/icon-128.png",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Superhot",
         "root": "superhot",
         "file": "index.html",
         "img": "hot.jpg",
-        "categories": ["shooter", "action"]
+        "categories": ["Shooter", "Action"]
     },
     {
         "name": "Surviv.io",
         "root": "surviv",
         "file": "index.html",
         "img": "img/favicon.png",
-        "categories": ["multiplayer", "battle royale"]
+        "categories": ["Multiplayer", "Battle royale"]
     },
     {
         "name": "Sushi unROLL",
         "root": "sushi-unroll",
         "file": "index.html",
         "img": "favicon.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "Swerve",
         "root": "swerve",
         "file": "index.html",
         "img": "img/favicon.jpg",
-        "categories": ["arcade"]
+        "categories": ["Arcade"]
     },
     {
         "name": "Synesthesia",
         "root": "synesthesia",
         "file": "index.html",
         "img": "index.splash.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "TV Static",
         "root": "tv-static",
         "file": "index.html",
         "img": "static.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "Table Tennis Ultimate",
         "root": "cnpingpong",
         "file": "index.html",
         "img": "tabletennisultimate.png",
-        "categories": ["sports"]
+        "categories": ["Sports"]
     },
     {
         "name": "Tactical Assassin 2",
         "root": "tacticalassasin2",
         "file": "index.html",
         "img": "tacticalassassin2.png",
-        "categories": ["shooter", "action"]
+        "categories": ["Shooter", "Action"]
     },
     {
         "name": "Tactical Weapon Pack 2",
         "root": "tactical-weapon-pack-2",
         "file": "index.html",
         "img": "splash.jpg",
-        "categories": ["shooter", "action"]
+        "categories": ["Shooter", "Action"]
     },
     {
         "name": "Tank Trouble 2",
         "root": "tank-trouble-2",
         "file": "index.html",
         "img": "tank.jpeg",
-        "categories": ["multiplayer", "shooter"]
+        "categories": ["Multiplayer", "Shooter"]
     },
     {
         "name": "Tanuki Sunset",
         "root": "tanuki-sunset",
         "file": "index.html",
         "img": "img/cover.png",
-        "categories": ["racing"]
+        "categories": ["Racing"]
     },
     {
         "name": "Temple Run 2",
         "root": "temple-run-2",
         "file": "index.html",
         "img": "img/og-icon.png",
-        "categories": ["endless runner", "action"]
+        "categories": ["Endless runner", "Action"]
     },
     {
         "name": "The Battle",
         "root": "thebattle",
         "file": "index.html",
         "img": "thebattle.png",
-        "categories": ["action", "strategy"]
+        "categories": ["Action", "Strategy"]
     },
     {
         "name": "The Final Earth",
         "root": "the-final-earth",
         "file": "index.html",
         "img": "images.png",
-        "categories": ["strategy", "adventure"]
+        "categories": ["Strategy", "Adventure"]
     },
     {
         "name": "The Heist",
         "root": "theheist",
         "file": "index.html",
         "img": "theheist.jpg",
-        "categories": ["adventure", "action"]
+        "categories": ["Adventure", "Action"]
     },
     {
         "name": "The Hotel",
         "root": "the-hotel",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["adventure"]
+        "categories": ["Adventure"]
     },
     {
         "name": "There Is No Game",
         "root": "there-is-no-game",
         "file": "index.html",
         "img": "logo.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "This Is The Only Level",
         "root": "thisistheonlylevel",
         "file": "index.html",
         "img": "thisistheonlylevel.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "Tiny Fishing",
         "root": "tiny-fishing",
         "file": "index.html",
         "img": "thumb.png",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Tiny Islands",
         "root": "tiny-islands",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Toss The Turtle",
         "root": "tosstheturtle",
         "file": "index.html",
         "img": "tosstheturtle.png",
-        "categories": ["action"]
+        "categories": ["Action"]
     },
     {
         "name": "Townscaper",
         "root": "townscaper",
         "file": "index.html",
         "img": "img/cover.jpg",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Tube Jumpers",
         "root": "tube-jumpers",
         "file": "index.html",
         "img": "img/shark.jpg",
-        "categories": ["arcade"]
+        "categories": ["Arcade"]
     },
     {
         "name": "Tunnel Rush",
         "root": "tunnel-rush",
         "file": "index.html",
         "img": "img/tunnel.jpg",
-        "categories": ["endless runner"]
+        "categories": ["Endless runner"]
     },
     {
         "name": "Twitch Tetris",
         "root": "twitch-tetris",
         "file": "index.html",
         "img": "logo.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "VELOCE",
         "root": "veloce",
         "file": "index.html",
         "img": "qN6zkD.png",
-        "categories": ["racing"]
+        "categories": ["Racing"]
     },
     {
         "name": "Vex 3",
         "root": "vex3",
         "file": "index.html",
         "img": "vex3.png",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Vex 4",
         "root": "vex4",
         "file": "index.html",
         "img": "vex4.png",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Vex 5",
         "root": "vex5",
         "file": "index.html",
         "img": "vex.jpeg",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Vex 6",
         "root": "vex6",
         "file": "index.html",
         "img": "assets/icon.jpeg",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Vex 7",
         "root": "vex7",
         "file": "index.html",
         "img": "assets/icon.jpeg",
-        "categories": ["platformer"]
+        "categories": ["Platformer"]
     },
     {
         "name": "Wall Smash",
         "root": "wallsmash",
         "file": "index.html",
         "img": "thumb.png",
-        "categories": ["arcade"]
+        "categories": ["Arcade"]
     },
     {
         "name": "Waterworks!",
         "root": "waterworks",
         "file": "index.html",
         "img": "square.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "Weave Silk",
         "root": "weavesilk",
         "file": "index.html",
         "img": "thumb.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "WebGL Fluid Sim",
         "root": "webgl-fluid-simulation",
         "file": "index.html",
         "img": "logo.png",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Win the Whitehouse",
         "root": "win-the-whitehouse",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Wolfenstein 3D",
         "root": "wolf3d",
         "file": "index.html",
         "img": "art/wolf3d.png",
-        "categories": ["shooter"]
+        "categories": ["Shooter"]
     },
     {
         "name": "Wordle",
         "root": "wordle",
         "file": "index.html",
         "img": "img/logo_512x512.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "World's Hardest Game",
         "root": "worlds-hardest-game",
         "file": "index.html",
         "img": "images/splash.jpg",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "World's Hardest Game 2",
         "root": "worlds-hardest-game-2",
         "file": "index.html",
         "img": "the-worlds-hardest-game-2.jpg",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "X Trial Racing",
         "root": "x-trial-racing",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["racing"]
+        "categories": ["Racing"]
     },
     {
         "name": "Yoshi's Fabrication Station",
         "root": "yoshifabrication",
         "file": "index.html",
         "img": "icons/icon-512.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "You Are Jeff Bezos",
         "root": "you-are-bezos",
         "file": "index.html",
         "img": "img/banner.png",
-        "categories": ["simulation"]
+        "categories": ["Simulation"]
     },
     {
         "name": "Zombs Royale",
         "root": "zombs-royale",
         "file": "index.html",
         "img": "zomb.png",
-        "categories": ["multiplayer", "battle royale"]
+        "categories": ["Multiplayer", "Battle royale"]
     },
     {
         "name": "circlO",
         "root": "circlo",
         "file": "index.html",
         "img": "img/download.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "n-gon",
         "root": "n-gon",
         "file": "index.html",
         "img": "bot.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     },
     {
         "name": "xx142-b2exe",
         "root": "xx142-b2exe",
         "file": "index.html",
         "img": "splash.png",
-        "categories": ["puzzle"]
+        "categories": ["Puzzle"]
     }
 ]
-
 
 
